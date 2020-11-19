@@ -1,0 +1,19 @@
+/* Index.css */
+body{
+    display: grid;
+    grid-template-columns: 20% 80% ;
+}
+
+nav{
+    background-color: lightgray;
+}
+
+nav > a{
+    margin: 5px;
+    padding: 5px;
+    display: block;
+}
+
+#frmA{
+    width: 600px;
+}
